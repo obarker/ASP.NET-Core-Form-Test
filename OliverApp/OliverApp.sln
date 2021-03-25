@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OliverApp", "OliverApp.csproj", "{38BE93BD-1A0A-499E-B09E-C88AAC51B4FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38BE93BD-1A0A-499E-B09E-C88AAC51B4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BE93BD-1A0A-499E-B09E-C88AAC51B4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BE93BD-1A0A-499E-B09E-C88AAC51B4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BE93BD-1A0A-499E-B09E-C88AAC51B4FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06046E3D-7A42-4813-A8BF-1DFB8EFC59F3}
+	EndGlobalSection
+EndGlobal
