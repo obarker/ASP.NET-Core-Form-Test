@@ -11,15 +11,16 @@
     <header>
         <div class="container">
             <div id="branding">
-                <h1><span class="highlight">.NET</span> Sample</h1>
+                <h1><span class="highlight">Account</span> Hub</h1>
 
             </div>
             <nav>
                 <ul>
 
-                    <li><a class="top" asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
-                    <li><a class="top" asp-area="" asp-controller="QandAs" asp-action="Index">Table</a></li>
-                    <li><a class="top" asp-area="" asp-controller="QandAs" asp-action="Create">Login</a></li>
+                    <li class="current"><a href="index.html">Home</a></li>
+                    <li><a href="About.html">About</a></li>
+                    <li><a href="Services.html">Services</a></li>
+
                 </ul>
 
             </nav>
@@ -29,7 +30,7 @@
 
     <section id="showcase">
         <div class="container">
-            <h1>Sample Showcase Text</h1>
+            <h1>Affordable Professional Web Design</h1>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
         </div>
 
@@ -47,15 +48,13 @@
 
     <div class="container">
         <main role="main" class="pb-3">
-            <div class="render">
-                @RenderBody()
-            </div>
+            @RenderBody()
         </main>
     </div>
 
-    <footer>
+    <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2021 - OliverApp - <a class="top" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2021 - OliverApp - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

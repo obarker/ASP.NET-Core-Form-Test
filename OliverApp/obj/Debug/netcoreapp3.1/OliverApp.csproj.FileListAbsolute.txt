@@ -168,3 +168,6 @@ C:\github\ASP.NET-Core-Form-Test\OliverApp\obj\Debug\netcoreapp3.1\Razor\Views\Q
 C:\github\ASP.NET-Core-Form-Test\OliverApp\obj\Debug\netcoreapp3.1\Razor\Views\QandAs\Edit.cshtml.g.cs
 C:\github\ASP.NET-Core-Form-Test\OliverApp\obj\Debug\netcoreapp3.1\Razor\Views\QandAs\Index.cshtml.g.cs
 C:\github\ASP.NET-Core-Form-Test\OliverApp\obj\Debug\netcoreapp3.1\Razor\Views\QandAs\ShowSearchForm.cshtml.g.cs
+C:\github\ASP.NET-Core-Form-Test\OliverApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout - Copy.cshtml.g.cs
+C:\github\ASP.NET-Core-Form-Test\OliverApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FormTest.cshtml.g.cs
+C:\github\ASP.NET-Core-Form-Test\OliverApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FormTest - Copy.cshtml.g.cs
